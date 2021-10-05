@@ -28,7 +28,7 @@ Then, I have combined data about Wikipedia page traffic from two Wikimedia REST 
 
 
 ### **Visualization**
-<img width="720" alt="wikipedia_monthly_views_analysis" src="https://user-images.githubusercontent.com/3502870/136106832-773f0e54-e326-4355-80f3-975e3cdab8b1.png">
+<img width="1112" alt="wikipedia_monthly_views_analysis" src="https://user-images.githubusercontent.com/3502870/136107253-25cf33c8-2b49-4237-97c8-132d7dcaaaba.png">
 
 
 ### **License**
