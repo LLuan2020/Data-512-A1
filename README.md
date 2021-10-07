@@ -27,8 +27,9 @@ Then, I have combined data about Wikipedia page traffic from two Wikimedia REST 
 | pagecount_all_views  | The total number of views as recorded by the Page Count API  |	
 
 
-### **Visualization**
-<img width="1112" alt="wikipedia_monthly_views_analysis" src="https://user-images.githubusercontent.com/3502870/136107253-25cf33c8-2b49-4237-97c8-132d7dcaaaba.png">
+## **Visualization**
+
+<img width="576" alt="wikipedia_monthly_views_analysis" src="https://user-images.githubusercontent.com/3502870/136447433-f079341d-bbfd-4336-9012-71ff5fd6bd2f.png">
 
 
 ### **License**
